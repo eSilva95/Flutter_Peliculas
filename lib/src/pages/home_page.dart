@@ -13,7 +13,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     var scaffold = Scaffold(
       appBar: AppBar(
-        title: Text('Peliculas'),
+        title: Text('Películas'),
         actions: [
           IconButton(
             icon: Icon(Icons.search),
